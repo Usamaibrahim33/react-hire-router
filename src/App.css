@@ -1,4 +1,4 @@
-.App {
+ .App {
   font-family: sans-serif;
   text-align: center;
 }
@@ -7,4 +7,11 @@
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 1rem;
-}
+} 
+
+
+/* .peoples-card {
+  border: solid 1px red;
+  width: 200px;
+  margin: 10px 0px;
+} */
